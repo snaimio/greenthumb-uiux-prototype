@@ -5,15 +5,15 @@
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20Android%20Mobile%20%7C%20Responsive%20Web-2ea44f?style=for-the-badge)](./design)
-[![LinkedIn Carousel](https://img.shields.io/badge/LinkedIn-5--Slide%20PDF%20Carousel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](./assets/carousel/greenthumb-linkedin-carousel.pdf)
+[![Design Process](https://img.shields.io/badge/Process-Research%20%E2%86%92%20Wireframes%20%E2%86%92%20Final%20App-blue?style=for-the-badge)](./screenshots)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 <br/>
 
-**Designed & Architected by Sheikh Naim (Tanjin Sufi)**  
+**Designed & Architected by Sheikh Naim**  
 *Product Design • User Research • Design Systems • Interactive Prototyping*
 
-[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4) • [**📑 Download LinkedIn PDF Carousel**](./assets/carousel/greenthumb-linkedin-carousel.pdf) • [**📐 View Design Process**](#-design-process--evolutionary-roadmap)
+[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4) • [**📐 View Design Process**](#-design-process--evolutionary-roadmap) • [**🎨 Design System Tokens**](#-design-system--visual-architecture)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 📌 Executive Summary
 
-**GreenThumb** is an all-in-one digital gardening ecosystem designed to bridge the gap between novice urban plant enthusiasts, seasoned horticulturists, and neighborhood community gardens.
+**GreenThumb** is an end-to-end digital gardening ecosystem designed to bridge the gap between novice urban plant enthusiasts, seasoned horticulturists, and neighborhood community gardens.
 
 Urban gardeners face recurring friction points: inconsistent watering routines, difficulty diagnosing plant ailments, fragmented knowledge sources, and limited visibility into local communal gardening plots. GreenThumb solves this through a unified product architecture featuring **smart plant telemetry tracking, neighborhood garden plot management, an integrated plant & supply marketplace, and workshop event coordination.**
 
@@ -33,7 +33,7 @@ Urban gardeners face recurring friction points: inconsistent watering routines, 
 │ 🛠 Tools          │ Figma, Microsoft Whiteboard, User Journey Mapping, Design Systems  │
 │ 📱 Platforms      │ Native Mobile App (iOS / Android) & Responsive Web Portal          │
 │ 🔗 Figma Key      │ 7nuclqgy1E88gaqP8KAQKA                                             │
-│ 🚀 Deliverables   │ Mobile & Web Prototypes, Design System Tokens, LinkedIn Carousel   │
+│ 🚀 Deliverables   │ Mobile & Web Prototypes, Design System Tokens, Research Brief      │
 └───────────────────┴────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -143,9 +143,6 @@ The project followed the **Double Diamond design methodology**, progressing thro
 
 ```
 greenthumb-uiux-prototype/
-├── assets/
-│   └── carousel/
-│       └── greenthumb-linkedin-carousel.pdf      # 5-Slide 4:5 PDF Carousel for LinkedIn
 ├── design/
 │   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig  # ★ FINAL PROJECT: Mobile Prototype & Design System
 │   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig # Phase 3: High-Fidelity Web Prototype
@@ -197,12 +194,11 @@ Access the shared prototype directly:
 
 ## 👨‍💻 Designer Profile & Contact
 
-**Sheikh Naim (Tanjin Sufi)**  
+**Sheikh Naim**  
 *Product Designer • UI/UX Specialist*
 
 - **GitHub:** [@snaimio](https://github.com/snaimio)
 - **Figma Prototype:** [GreenThumb on Figma](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
-- **LinkedIn:** [Sheikh Naim on LinkedIn](https://www.linkedin.com)
 
 ---
 

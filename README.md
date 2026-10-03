@@ -5,7 +5,7 @@
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20Android%20Mobile-2ea44f?style=for-the-badge)](./design)
-[![Screenshots](https://img.shields.io/badge/UI%20Screens-10%20Core%20Prototype%20Views-blue?style=for-the-badge)](./screenshots)
+[![Screenshots](https://img.shields.io/badge/UI%20Screens-Complete%20Prototype%20Suite-blue?style=for-the-badge)](./screenshots)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 <br/>
@@ -33,16 +33,23 @@ Urban gardeners face recurring friction points: inconsistent watering routines, 
 │ 🛠 Tools          │ Figma, User Journey Mapping, Information Architecture, Wireframing │
 │ 📱 Core Platform  │ Native Mobile App (iOS / Android)                                  │
 │ 🔗 Figma Key      │ 7nucLqgY1E8BgaqP8KAQKA                                             │
-│ 🚀 Deliverables   │ 10 Native Mobile Screens, Interactive Prototype, Design Tokens     │
+│ 🚀 Deliverables   │ Complete Mobile Prototype, Design System Canvas, 10 Core Screens   │
 └───────────────────┴────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📱 Core Mobile Prototype Screens Showcase
+## 📱 Final Capstone Showcase: Mobile Application Prototype (Assignment 4)
 
 > [!IMPORTANT]
-> **Assignment 4 represents the final, production-ready interactive mobile prototype.** Below are the **10 core application screens** demonstrating the complete end-to-end user experience designed in Figma.
+> **Assignment 4 represents the final, production-ready interactive mobile prototype.** It unifies complete user flows, modal dialogs, and a robust design system crafted in Figma.
+
+### Complete Mobile Canvas & Design System Ecosystem
+![Figma Canvas & Design System Overview](screenshots/figma-canvas-design-system-overview.png)
+
+---
+
+## 📱 Core Mobile Prototype Screens Showcase
 
 ### 🌟 Part 1: Onboarding, Community Plots, Guides & Live Telemetry
 
@@ -64,31 +71,40 @@ Urban gardeners face recurring friction points: inconsistent watering routines, 
 
 ## 🔍 In-Depth Screen & Feature Analysis
 
-### 1. Onboarding & Core Discovery
-- **Screen 01 — Onboarding & Philosophy (`mobile-01-onboarding.png`):** Establishes emotional connection through calming typography and botanical brand identity. Sets the core app ethos: *"Where neighbours grow plants, build friendships, and remember what matters."*
-- **Screen 02 — Explore Community Garden Plots (`mobile-02-explore-gardens.png`):** High-density listing displaying plot dimensions (e.g. *150×150 ft, 12×12 ft*), sunlight conditions (*Full Sun, Partial Shade*), bed type (*Raised Bed, Traditional In-Ground*), and live availability badges.
-- **Screen 03 — Gardening Resources & Knowledge Base (`mobile-03-gardening-resources.png`):** Modular card encyclopedia covering efficient watering methods, seasonal care cycles, and beginner-to-advanced planting guides.
+### 1. Onboarding & Community Discovery
+- **Screen 01 — Onboarding & Philosophy (`mobile-01-onboarding.png`):** Calming, distraction-free landing establishing brand ethos: *"Where neighbours grow plants, build friendships, and remember what matters."*
+- **Screen 02 — Explore Community Garden Plots (`mobile-02-explore-gardens.png`):** High-density listing showcasing plot dimensions (*150×150 ft, 12×12 ft*), sunlight conditions (*Full Sun, Partial Shade*), bed type (*Raised Bed, Traditional In-Ground*), and live availability badges with direct coordinator contact actions.
+- **Screen 03 — Gardening Resources & Knowledge Base (`mobile-03-gardening-resources.png`):** Educational cards breaking down efficient watering methods, seasonal planting schedules, and beginner-to-expert planting guides.
+
+---
 
 ### 2. Live IoT Telemetry & Personal Dashboard
-- **Screen 04 — Profile & Smart Telemetry Dashboard (`mobile-04-profile-telemetry.png`):**
+
+<div align="center">
+  <img src="screenshots/mobile-telemetry-dashboard-closeup.png" width="340" alt="IoT Telemetry Dashboard Close-Up"/>
+</div>
+
+- **Screen 04 — Profile & Smart Telemetry Dashboard (`mobile-04-profile-telemetry.png` & `mobile-telemetry-dashboard-closeup.png`):**
   - **Live Sensor Telemetry:** Real-time data chips for Humidity (74%), Ambient Temp (23°C), and Reservoir Water Level (85%).
   - **Nutrient Tracking:** Dynamic countdown (5g left / Refill in 2 days).
   - **Crop Lifecycle Status:** Active plant counter (6 plants growing) and harvest countdown (Next harvest in 3 months).
   - **Connectivity & Hardware:** Online sync indicator and smart grow-light status toggle.
 
+---
+
 ### 3. Community Engagement, Events & Commerce
-- **Screen 05 — Quick Action Hub Drawer (`mobile-05-menu-drawer.png`):** Glassmorphism overlay menu granting instant access across all five primary sub-modules without cluttering the main screen.
+- **Screen 05 — Quick Action Hub Drawer (`mobile-05-menu-drawer.png`):** Glassmorphism overlay menu granting instant access across all primary app modules.
 - **Screen 06 — Settings & Notification Preferences (`mobile-06-settings.png`):** Granular controls for dark/light themes, stay-awake screen mode, and push notifications.
-- **Screen 07 — Create Community Post (`mobile-07-create-post.png`):** User photo-sharing interface with image dropzone, character counters, and tagging.
-- **Screen 08 — Events Calendar & Workshops (`mobile-08-events-calendar.png`):** Interactive monthly calendar synced with neighborhood events (Spring Planting Kickoff, Composting Workshops, Community Potlucks).
-- **Screen 09 — Contact Garden Manager Modal (`mobile-09-contact-manager.png`):** Verified garden coordinator contact card with one-tap inquiry routing.
+- **Screen 07 — Create Community Post (`mobile-07-create-post.png`):** User photo-sharing interface with image dropzone, character counters, and community tagging.
+- **Screen 08 — Events Calendar & Workshops (`mobile-08-events-calendar.png`):** Interactive monthly calendar synced with neighborhood events (Spring Planting Kickoff, Composting Workshops, Community Potlucks) and instant registration.
+- **Screen 09 — Contact Garden Manager Modal (`mobile-09-contact-manager.png`):** Dedicated coordinator profile modal for John Doe (`john.doe@gmail.com`, `(555) 214-4756`) with direct inquiry routing.
 - **Screen 10 — Community Marketplace & Tool Trading (`mobile-10-marketplace.png`):** Peer-to-peer exchange for gardening tools, hoses, seed starter kits, and organic compost with location badges and chat inquiry triggers.
 
 ---
 
 ## 🎨 Design System & Visual Architecture
 
-A cohesive design token system was built from the ground up to evoke botanical vitality while maintaining strict accessibility standards (WCAG 2.1 AAA).
+A comprehensive design token architecture was developed in Figma to deliver botanical vibrancy while strictly adhering to WCAG 2.1 AAA accessibility standards.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -120,7 +136,9 @@ greenthumb-uiux-prototype/
 │   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig    # Phase 3: High-Fidelity Web Prototype
 │   ├── SheikhNaim_UI_UX_Assignment2.fig             # Phase 2: Responsive Web Architecture
 │   └── SheikhNaim-Assignment1.docx                  # Phase 1: UX Research Brief & Low-Fi Wireframes
-├── screenshots/                                     # ★ 10 Core Mobile Prototype Screens
+├── screenshots/                                     # ★ Authentic Mobile Prototype Suite
+│   ├── figma-canvas-design-system-overview.png      # Complete Figma Canvas & Design System
+│   ├── mobile-telemetry-dashboard-closeup.png       # IoT Telemetry Dashboard Widget Detail
 │   ├── mobile-01-onboarding.png                     # 01. Onboarding & Brand Philosophy
 │   ├── mobile-02-explore-gardens.png                # 02. Community Garden Plots Directory
 │   ├── mobile-03-gardening-resources.png            # 03. Gardening Resources Library

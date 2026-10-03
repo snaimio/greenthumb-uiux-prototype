@@ -13,7 +13,7 @@
 **Designed & Architected by Sheikh Naim**  
 *Product Design • User Research • Design Systems • Interactive Prototyping*
 
-[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4) • [**📱 View Final Mobile App Screens**](#-final-capstone-showcase-mobile-application-prototype-assignment-4) • [**📐 View Design Evolution**](#-end-to-end-design-evolution-from-low-fi-to-final-prototype) • [**🎨 Design System Tokens**](#-design-system--visual-architecture)
+[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4) • [**📱 Final Mobile App Screens**](#-final-capstone-showcase-mobile-application-prototype-assignment-4) • [**📐 Design Evolution**](#-end-to-end-design-evolution-from-low-fi-to-final-prototype) • [**🎨 Design Tokens**](#-design-system--visual-architecture)
 
 </div>
 
@@ -42,24 +42,49 @@ Urban gardeners face recurring friction points: inconsistent watering routines, 
 ## 📱 Final Capstone Showcase: Mobile Application Prototype (Assignment 4)
 
 > [!IMPORTANT]
-> **Assignment 4 is the definitive, production-ready capstone deliverable.** It synthesizes findings from earlier wireframing and web iterations into an ergonomic, high-fidelity mobile application experience crafted in Figma.
+> **Assignment 4 is the definitive capstone deliverable.** It synthesizes findings from earlier research, wireframes, and web iterations into an ergonomic, high-fidelity mobile application experience designed in Figma.
 
 ### Complete Mobile Canvas & Prototype Ecosystem
 ![Mobile App Prototype Canvas](screenshots/mobile-app-prototype-overview.png)
 
 ---
 
-### 🌟 Deep-Dive: Core Mobile Screens & Feature Modules
+### 🌟 1. Core Experience: Home Garden & Telemetry
 
-| Interface & Screen Component | Visual Deliverable | UX Architecture & Feature Breakdown |
+| Mobile Screen Component | Prototype Capture | UX Architecture & Feature Breakdown |
 | :--- | :---: | :--- |
-| **Home Garden Feed & Community Hero** | <img src="screenshots/mobile-hero-garden-banner.png" width="460" alt="Home Garden Hero Banner"/> | • **Personalized Garden Workspace:** Real-time summary of saved plants and upcoming care alerts.<br/>• **Community Spotlights:** Local neighborhood garden announcements and seasonal planting recommendations. |
-| **Smart Plant Care & Telemetry Tracker** | <img src="screenshots/plant-care-banner.png" width="460" alt="Plant Care Banner"/> | • **Telemetry Indicators:** Visual moisture levels, sunlight requirements, and ambient temperature thresholds.<br/>• **Automated Reminders:** Smart countdowns to next watering, pruning, and fertilizing cycles. |
-| **Botanical Specimen & Care Profile** | <img src="screenshots/mobile-plant-profile-detail.png" width="460" alt="Plant Profile Detail Screen"/> | • **Deep-Dive Taxonomy:** Botanical classification, light tolerances, toxicity warnings for pets, and propagation guides.<br/>• **Health Diagnostic Journal:** Visual photo log to monitor leaf growth and detect pest anomalies. |
-| **Specimen Quick-Card & Care Summary** | <img src="screenshots/mobile-plant-card-view.png" width="460" alt="Monstera Plant Card"/> | • **Scannable UI Card:** High-contrast care difficulty rating, hydration index, and one-tap "Care Complete" log action.<br/>• **Adaptive Status Indicators:** Color-coded badges for immediate status identification. |
-| **Care Metrics & Environment Telemetry** | <img src="screenshots/mobile-care-stats-widget.png" width="460" alt="Care Metrics Widget"/> | • **Modular Widget System:** High-density stat chips detailing soil moisture %, Lux sunlight intensity, and humidity levels.<br/>• **Data-Driven Diagnostics:** Predictive alerts before soil reaches critical dehydration. |
-| **Community Plots & Grower Network** | <img src="screenshots/community-plot-banner.png" width="460" alt="Community Plot Banner"/> | • **Urban Garden Allocation:** Interactive plot booking (*e.g., Plot 12 North Section*) with shared tool locker access.<br/>• **Local Grower Profiles:** Connect with neighborhood plot neighbors and organize volunteer work sessions. |
-| **Community Member Badges & Plot Cards** | <img src="screenshots/mobile-community-card.png" width="220" alt="Community Card"/>&nbsp;&nbsp;<img src="screenshots/mobile-plot-thumbnail.png" width="220" alt="Plot Thumbnail"/> | • **Gamified Badges:** Earn volunteer milestone credentials and seed-sharing reputation scores.<br/>• **Plot Snapshot Cards:** Compact cards displaying sunlight exposure, plot dimensions, and harvest timelines. |
+| **Home Garden Workspace & Hero Banner** | <img src="screenshots/mobile-hero-garden-banner.png" width="460" alt="Home Garden Hero Banner"/> | • **Personalized Garden Workspace:** Real-time summary of saved plants, urgent care tasks, and ambient weather telemetry.<br/>• **Community Spotlights:** Local neighborhood plot announcements and seasonal advisories. |
+| **Smart Plant Care & Hydration Tracker** | <img src="screenshots/plant-care-banner.png" width="460" alt="Plant Care Banner"/> | • **Telemetry Indicators:** Visual moisture levels, sunlight exposure meters, and ambient temperature thresholds.<br/>• **Automated Reminders:** Smart countdowns to next watering, pruning, and fertilizing cycles. |
+| **Care Metrics & Environment Telemetry** | <img src="screenshots/mobile-care-stats-widget.png" width="460" alt="Care Metrics Widget"/> | • **Modular Widget System:** High-density stat chips detailing soil moisture %, Lux sunlight intensity, and humidity levels.<br/>• **Predictive Health:** Alerts gardeners before soil moisture reaches critical dehydration. |
+
+---
+
+### 🌿 2. Botanical Profiles, Care Guides & Diagnostics
+
+| Mobile Screen Component | Prototype Capture | UX Architecture & Feature Breakdown |
+| :--- | :---: | :--- |
+| **Botanical Specimen & Care Profile** | <img src="screenshots/mobile-plant-profile-detail.png" width="460" alt="Plant Profile Detail Screen"/> | • **Deep-Dive Taxonomy:** Botanical classification, light tolerances, toxicity warnings for pets, and propagation guides.<br/>• **Growth Journal:** Visual photo log to monitor leaf health and detect pest anomalies. |
+| **Specimen Quick-Card & Care Action** | <img src="screenshots/mobile-plant-card-view.png" width="460" alt="Monstera Plant Card"/> | • **Scannable UI Card:** High-contrast care difficulty rating, hydration index, and one-tap "Care Complete" log action.<br/>• **Adaptive Status Indicators:** Color-coded badges for immediate status identification. |
+| **Sunlight & Watering Intelligence** | <img src="screenshots/mobile-sunlight-watering-card.png" width="220" alt="Sunlight Watering Card"/>&nbsp;&nbsp;<img src="screenshots/mobile-watering-schedule-banner.png" width="220" alt="Watering Schedule"/> | • **Sunlight Threshold Cards:** Direct vs. indirect sunlight gauges customized per plant genus.<br/>• **Hydration Scheduling:** Automated dynamic countdown schedules adjusting for seasonal heat. |
+
+---
+
+### 🪴 3. Plant Catalog & Category Exploration
+
+| Category Module | Prototype Capture | UX Architecture & Feature Breakdown |
+| :--- | :---: | :--- |
+| **Succulents & Low-Maintenance Plants** | <img src="screenshots/mobile-succulents-houseplants.png" width="220" alt="Succulents"/>&nbsp;&nbsp;<img src="screenshots/mobile-soil-fertilizer-care.png" width="220" alt="Soil Fertilizer"/> | • **Curated Collections:** Specialized care filters for drought-tolerant succulents, cacti, and low-light foliage.<br/>• **Substrate Guides:** Recommended soil mixes and organic fertilizer regimens. |
+| **Indoor Herb Garden & Propagation** | <img src="screenshots/mobile-indoor-herb-garden.png" width="220" alt="Indoor Herb Garden"/>&nbsp;&nbsp;<img src="screenshots/mobile-plant-propagation-guide.png" width="220" alt="Propagation Guide"/> | • **Culinary Herb Care:** Micro-climate tracking for basil, rosemary, mint, and kitchen windowsill planters.<br/>• **Step-by-Step Propagation:** Visual cutting and water propagation walkthroughs. |
+
+---
+
+### 🏡 4. Urban Community Plots & Workshop Events
+
+| Community Module | Prototype Capture | UX Architecture & Feature Breakdown |
+| :--- | :---: | :--- |
+| **Urban Community Garden Network** | <img src="screenshots/community-plot-banner.png" width="460" alt="Community Plot Banner"/> | • **Plot Allocation:** Interactive plot booking (*e.g., Plot 12 North Section*) with shared tool locker access.<br/>• **Community Coordination:** Connect with plot neighbors and coordinate communal watering rotas. |
+| **Member Badges & Plot Snapshots** | <img src="screenshots/mobile-community-card.png" width="220" alt="Community Card"/>&nbsp;&nbsp;<img src="screenshots/mobile-plot-thumbnail.png" width="220" alt="Plot Thumbnail"/> | • **Volunteer Milestones:** Earn verifiable community badges for attending neighborhood garden workdays.<br/>• **Plot Snapshot Cards:** Compact cards displaying soil conditions, dimensions, and harvest logs. |
+| **Workshops, Seed Swaps & Supplies** | <img src="screenshots/mobile-garden-workshop-event.png" width="220" alt="Workshop Event"/>&nbsp;&nbsp;<img src="screenshots/mobile-seed-swap-nursery.png" width="220" alt="Seed Swap"/> | • **Hands-on Workshops:** Masterclasses on composting, seasonal pruning, and organic pest control.<br/>• **Seed Exchange:** Peer-to-peer heirloom seed exchange and local nursery supply listings. |
 
 ---
 
@@ -82,9 +107,9 @@ A comprehensive design token architecture was developed in Figma to deliver bota
 ```
 
 ### Key UI/UX Principles:
-- **WCAG 2.1 AAA Contrast:** Every typography token and interactive element meets strict accessible contrast ratios.
-- **Ergonomic Thumb-Zone Navigation:** All primary actions (logging care, scanning plants, exploring plots) remain within single-handed thumb reach on mobile viewports.
-- **Progressive Disclosure:** High-density plant taxonomy and telemetry are structured into glanceable, modular cards with expandable deep-dive sheets.
+- **WCAG 2.1 AAA Contrast:** Strict accessible contrast ratios across all typography and interactive surfaces.
+- **Ergonomic Thumb-Zone Navigation:** Primary touch targets (logging care, scanning plants, exploring plots) remain within single-handed thumb reach on mobile viewports.
+- **Progressive Disclosure:** Complex botanical telemetry is structured into glanceable, modular cards with expandable deep-dive sheets.
 
 ---
 
@@ -149,38 +174,46 @@ The project followed the **Double Diamond design methodology**, evolving across 
 ```
 greenthumb-uiux-prototype/
 ├── design/
-│   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig  # ★ FINAL CAPSTONE: Mobile Prototype & Design System
-│   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig # Phase 3: High-Fidelity Web Prototype
-│   ├── SheikhNaim_UI_UX_Assignment2.fig          # Phase 2: Responsive Web Architecture
-│   └── SheikhNaim-Assignment1.docx               # Phase 1: User Research Brief & Low-Fi Wireframes
+│   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig     # ★ FINAL CAPSTONE: Mobile Prototype & Design System
+│   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig    # Phase 3: High-Fidelity Web Prototype
+│   ├── SheikhNaim_UI_UX_Assignment2.fig             # Phase 2: Responsive Web Architecture
+│   └── SheikhNaim-Assignment1.docx                  # Phase 1: UX Research Brief & Low-Fi Wireframes
 ├── screenshots/
-│   ├── mobile-app-prototype-overview.png         # Final Mobile Prototype Canvas
-│   ├── mobile-hero-garden-banner.png             # Mobile Home Feed & Hero Banner
-│   ├── plant-care-banner.png                     # Mobile Plant Care & Telemetry Tracker
-│   ├── mobile-plant-profile-detail.png           # Mobile Specimen Profile Screen
-│   ├── mobile-plant-card-view.png                # Mobile Plant Card Quick-View
-│   ├── mobile-care-stats-widget.png              # Mobile Care Metrics Telemetry Widget
-│   ├── mobile-garden-badge.png                   # Mobile Garden Milestone Badge
-│   ├── mobile-community-card.png                 # Mobile Community Member Card
-│   ├── mobile-plot-thumbnail.png                 # Mobile Community Plot Card
-│   ├── community-plot-banner.png                 # Community Garden Showcase Banner
-│   ├── web-landing-hero.png                      # Web Discovery Landing Hero
-│   ├── web-community-gardens.png                 # Web Community Garden Network
-│   ├── web-plant-care-guide.png                  # Web Plant Care Encyclopedia
-│   ├── web-marketplace-plants.png                # Web Marketplace Catalog
-│   ├── web-events-calendar.png                   # Web Workshop & Event Calendar
-│   ├── web-prototype-overview.png                # Web Prototype Canvas
-│   ├── web-wireframes-overview.png               # Wireframes Canvas
-│   ├── lowfi-wireframes-whiteboard-overview.png  # Whiteboard Low-Fi Wireframes Canvas
-│   ├── lowfi-home-plot-listings.png              # Low-Fi Plot Listings
-│   ├── lowfi-events-calendar.png                 # Low-Fi Events Calendar
-│   ├── lowfi-gardening-resources.png             # Low-Fi Resources
-│   ├── lowfi-community-marketplace.png           # Low-Fi Marketplace
-│   ├── lowfi-members-dashboard.png               # Low-Fi Dashboard
-│   └── lowfi-plot-details.png                    # Low-Fi Plot Details
+│   ├── mobile-app-prototype-overview.png            # Final Mobile Prototype Canvas
+│   ├── mobile-hero-garden-banner.png                # Mobile Home Feed & Hero Banner
+│   ├── plant-care-banner.png                        # Mobile Plant Care & Telemetry Tracker
+│   ├── mobile-plant-profile-detail.png              # Mobile Specimen Profile Screen
+│   ├── mobile-plant-card-view.png                   # Mobile Plant Card Quick-View
+│   ├── mobile-care-stats-widget.png                 # Mobile Care Metrics Telemetry Widget
+│   ├── mobile-sunlight-watering-card.png            # Mobile Sunlight & Watering Card
+│   ├── mobile-watering-schedule-banner.png          # Mobile Watering Schedule Banner
+│   ├── mobile-succulents-houseplants.png            # Mobile Succulents & Houseplants
+│   ├── mobile-soil-fertilizer-care.png              # Mobile Soil & Fertilizer Care
+│   ├── mobile-indoor-herb-garden.png                # Mobile Indoor Herb Garden
+│   ├── mobile-plant-propagation-guide.png           # Mobile Plant Propagation Guide
+│   ├── mobile-garden-badge.png                      # Mobile Garden Milestone Badge
+│   ├── mobile-community-card.png                    # Mobile Community Member Card
+│   ├── mobile-plot-thumbnail.png                    # Mobile Community Plot Card
+│   ├── mobile-garden-workshop-event.png             # Mobile Garden Workshop Event
+│   ├── mobile-seed-swap-nursery.png                 # Mobile Seed Swap & Nursery Card
+│   ├── community-plot-banner.png                    # Community Garden Showcase Banner
+│   ├── web-landing-hero.png                         # Web Discovery Landing Hero
+│   ├── web-community-gardens.png                    # Web Community Garden Network
+│   ├── web-plant-care-guide.png                     # Web Plant Care Encyclopedia
+│   ├── web-marketplace-plants.png                   # Web Marketplace Catalog
+│   ├── web-events-calendar.png                      # Web Workshop & Event Calendar
+│   ├── web-prototype-overview.png                   # Web Prototype Canvas
+│   ├── web-wireframes-overview.png                  # Wireframes Canvas
+│   ├── lowfi-wireframes-whiteboard-overview.png     # Whiteboard Low-Fi Wireframes Canvas
+│   ├── lowfi-home-plot-listings.png                 # Low-Fi Plot Listings
+│   ├── lowfi-events-calendar.png                    # Low-Fi Events Calendar
+│   ├── lowfi-gardening-resources.png                # Low-Fi Resources
+│   ├── lowfi-community-marketplace.png              # Low-Fi Marketplace
+│   ├── lowfi-members-dashboard.png                  # Low-Fi Dashboard
+│   └── lowfi-plot-details.png                       # Low-Fi Plot Details
 ├── .gitignore
-├── LICENSE                                       # MIT License (Sheikh Naim)
-└── README.md                                     # Comprehensive Case Study & Documentation
+├── LICENSE                                          # MIT License (Sheikh Naim)
+└── README.md                                        # Comprehensive Case Study & Documentation
 ```
 
 ---

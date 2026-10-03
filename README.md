@@ -1,77 +1,87 @@
-# 🌱 GreenThumb — UI/UX Design System & Interactive Prototype
+# 🌱 GreenThumb — Mobile App UI/UX Prototype & Design System
+### *Final Project Prototype (Assignment 4)*
 
-[![Figma](https://img.shields.io/badge/Figma-Design%20Files-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-[![Platform](https://img.shields.io/badge/Platform-Web%20%26%20Mobile%20(iOS%2FAndroid)-2ea44f?style=for-the-badge)](./design)
-[![UI/UX](https://img.shields.io/badge/Design%20Phase-Research%20%E2%86%92%20Wireframes%20%E2%86%92%20Hi--Fi%20Prototype-blue?style=for-the-badge)](./screenshots)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Final%20Prototype%20(A4)-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](./design/AppPrototype_UIUX_Sheikh_Assignment4.fig)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20Android%20Mobile-2ea44f?style=for-the-badge)](./design)
+[![Status](https://img.shields.io/badge/Status-Final%20Interactive%20Deliverable-blue?style=for-the-badge)](./design/AppPrototype_UIUX_Sheikh_Assignment4.fig)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-**GreenThumb** is a digital gardening companion and community platform designed to bridge urban gardeners, botanical enthusiasts, and beginners with intelligent plant care, local community garden plots, workshop events, and plant marketplace resources.
-
-This repository tracks the complete end-to-end UI/UX design lifecycle across 4 distinct phases—from initial user research and low-fidelity whiteboard wireframes to high-fidelity responsive web prototypes and a final mobile application design system.
+**GreenThumb** is a human-centered digital gardening companion and urban grower ecosystem. This repository hosts the **Final Project Mobile App Prototype (Assignment 4)**, featuring a comprehensive design system, intuitive botanical care tracking, community garden integration, and interactive user flows.
 
 ---
 
-## 📐 Phase 1: Low-Fidelity Wireframes & Information Architecture
+## 📱 Final Project Showcase: Mobile App Prototype (Assignment 4)
 
-Initial conceptual wireframes designed to define layout hierarchies, navigation patterns, and user journeys across core gardening workflows.
+The final milestone delivers a high-fidelity mobile user experience optimized for everyday plant care, real-time telemetry, and community gardening.
 
-### Whiteboard Wireframe Suite Overview
+### Complete Mobile Prototype Architecture
+![Mobile App Prototype Overview](screenshots/mobile-app-prototype-overview.png)
+
+### Key Final Features & User Flows
+
+| Feature Module | Visual Deliverable | UX Highlights |
+| :--- | :---: | :--- |
+| **Plant Care & Hydration Tracking** | <img src="screenshots/plant-care-banner.png" width="460" alt="Plant Care Tracker"/> | Smart watering schedules, moisture gauges, sunlight exposure indicators, and EasyCare diagnostic cards. |
+| **Botanical Discovery & Profiles** | <img src="screenshots/community-plot-banner.png" width="460" alt="Plant Discovery"/> | High-resolution plant profiles with species specifications, soil prep guides, and community harvest logs. |
+| **Interactive Navigation & UI Tokens** | *Embedded in Figma Prototype* | Persistent bottom navigation (Home, Catalog, Scanner, Community, Profile), accessible WCAG AAA green palette, and tactile card states. |
+| **EasyCare Loyalty & Community Rewards** | *Embedded in Figma Prototype* | Gamified gardening milestones, QR loyalty cards, volunteer badges, and plot booking waitlists. |
+| **Account & Profile Management** | *Embedded in Figma Prototype* | Custom notification preferences, dark/light theme options, and plot subscription settings. |
+
+---
+
+## 💻 Web Platform Prototype (Assignment 3)
+
+The high-fidelity web companion connecting gardeners with local plot reservations, workshop calendars, and verified seed/supply vendors.
+
+| Web Module | Screen Capture | Core Capabilities |
+| :--- | :---: | :--- |
+| **Landing & Discovery Hub** | <img src="screenshots/web-landing-hero.png" width="440" alt="Web Landing Hero"/> | Dynamic search, seasonal gardening spotlights, and quick-access categories. |
+| **Community Gardens Directory** | <img src="screenshots/web-community-gardens.png" width="440" alt="Community Gardens"/> | Local garden locator, plot availability tracker, and volunteer team rosters. |
+| **Plant Care Encyclopedia** | <img src="screenshots/web-plant-care-guide.png" width="440" alt="Plant Care Guide"/> | Filterable botanical database by light requirement, indoor/outdoor suitability, and soil type. |
+| **Marketplace & Local Nurseries** | <img src="screenshots/web-marketplace-plants.png" width="440" alt="Marketplace"/> | Direct nursery marketplace for starter plants, organic soil, seed kits, and tools. |
+| **Events & Workshop Calendar** | <img src="screenshots/web-events-calendar.png" width="440" alt="Events Calendar"/> | Community planting workdays, pruning masterclasses, and RSVP management. |
+
+---
+
+## 📐 Project Foundations: Low-Fi Wireframes (Assignment 1 & 2)
+
+The design began with low-fidelity whiteboard ideation and information architecture mapping to establish user flows before advancing to high-fidelity prototyping.
+
+### Low-Fidelity Whiteboard Ideation Board
 ![Low-Fidelity Wireframes Overview](screenshots/lowfi-wireframes-whiteboard-overview.png)
 
-### Low-Fi Screen Breakdown
+<details>
+<summary><b>🔍 Expand Low-Fi Screen Breakdown (Click to view individual wireframes)</b></summary>
+<br/>
 
-| Screen / Module | Low-Fidelity Wireframe | Description |
+| Wireframe Module | Screen | Focus |
 | :--- | :---: | :--- |
-| **Home / Plot Listings** | <img src="screenshots/lowfi-home-plot-listings.png" width="360" alt="Home / Plot Listings Wireframe"/> | Search filters by location, plot size, and amenities with plot availability cards and interactive location map. |
-| **Events & Workshop Calendar** | <img src="screenshots/lowfi-events-calendar.png" width="360" alt="Events Calendar Wireframe"/> | Monthly calendar grid with registration CTAs for workshops, volunteer workdays, and community seed swaps. |
-| **Gardening Resources & Guides** | <img src="screenshots/lowfi-gardening-resources.png" width="360" alt="Gardening Resources Wireframe"/> | Categorized plant care encyclopedia covering pest management, soil prep, and seasonal planting advice. |
-| **Community Marketplace** | <img src="screenshots/lowfi-community-marketplace.png" width="360" alt="Community Marketplace Wireframe"/> | Local exchange listings for surplus produce, seeds, compost, and gardening tools. |
-| **Member Dashboard** | <img src="screenshots/lowfi-members-dashboard.png" width="360" alt="Member Dashboard Wireframe"/> | User plot management dashboard tracking active membership status, volunteer hours, and maintenance requests. |
-| **Plot Details & Log** | <img src="screenshots/lowfi-plot-details.png" width="360" alt="Plot Details Wireframe"/> | Individual plot specs (dimensions, sunlight exposure, water access), photo uploads, and neighbor contact log. |
+| **Home / Plot Listings** | <img src="screenshots/lowfi-home-plot-listings.png" width="280" alt="Plot Listings"/> | Filter bar by location, size, amenities & availability list. |
+| **Events Calendar** | <img src="screenshots/lowfi-events-calendar.png" width="280" alt="Events Calendar"/> | Monthly workshop schedule & volunteer signup actions. |
+| **Gardening Resources** | <img src="screenshots/lowfi-gardening-resources.png" width="280" alt="Resources"/> | Structured grid for planting guides, soil testing & composting. |
+| **Community Marketplace** | <img src="screenshots/lowfi-community-marketplace.png" width="280" alt="Marketplace"/> | Produce exchange, tool sharing & seed swap boards. |
+| **Members Dashboard** | <img src="screenshots/lowfi-members-dashboard.png" width="280" alt="Dashboard"/> | Active plot status, volunteer hour logs & maintenance tickets. |
+| **Plot Details** | <img src="screenshots/lowfi-plot-details.png" width="280" alt="Plot Details"/> | Dimensions, sunlight/water access & photo upload journal. |
+
+</details>
 
 ---
 
-## 💻 Phases 2 & 3: High-Fidelity Responsive Web Platform
-
-Evolution from responsive layout systems into a high-fidelity interactive prototype featuring community plot coordination, plant care guides, and marketplace integration.
-
-| Interface Module | High-Resolution Screen Capture | Features & UX Considerations |
-| :--- | :---: | :--- |
-| **Landing & Discovery Portal** | <img src="screenshots/web-landing-hero.png" width="460" alt="Web Landing Hero"/> | Hero showcase with seasonal planting advice, quick discovery shortcuts, and community highlights. |
-| **Community Gardens Network** | <img src="screenshots/web-community-gardens.png" width="460" alt="Community Gardens"/> | Interactive neighborhood plot directory, grower profiles, and shared volunteer tasks. |
-| **Plant Care Encyclopedia** | <img src="screenshots/web-plant-care-guide.png" width="460" alt="Plant Care Guide"/> | In-depth care guides filtered by sunlight, indoor/outdoor suitability, soil requirements, and watering frequency. |
-| **Marketplace & Local Nurseries** | <img src="screenshots/web-marketplace-plants.png" width="460" alt="Marketplace"/> | Verified vendor catalog for organic fertilizers, seedling trays, hand tools, and plant starters. |
-| **Events & Workshop Calendar** | <img src="screenshots/web-events-calendar.png" width="460" alt="Events Calendar"/> | Community planting workshops, pruning masterclasses, and RSVP schedules. |
-| **Community Plot Showcase** | <img src="screenshots/community-plot-banner.png" width="460" alt="Plot 12 North Section"/> | Visual garden plot showcase featuring active vegetable & herb beds. |
-
----
-
-## 📱 Phase 4: Mobile App Interactive Prototype & Design System
-
-A native mobile application prototype engineered for on-the-go plant monitoring, watering reminders, and botanical diagnostics.
-
-| Deliverable | Visual Board | Description |
-| :--- | :---: | :--- |
-| **Complete Mobile App System** | <img src="screenshots/mobile-app-prototype-overview.png" width="380" alt="Mobile Prototype Overview"/> | End-to-end mobile app prototype covering Onboarding, Dashboard Feed, Diagnostics, Plant Catalog, and Settings. |
-| **Smart Plant Care & Tracking** | <img src="screenshots/plant-care-banner.png" width="380" alt="Plant Care Banner"/> | Real-time watering reminders, health monitors, sunlight indicators, and EasyCare diagnostic cards. |
-
----
-
-## 🔄 Design Evolution & Deliverables Roadmap
+## 🔄 End-to-End Design Evolution
 
 ```
-┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
-│ Phase 1: UX Research Doc  │ ───► │ Phase 2: Lo-Fi Wireframes │ ───► │ Phase 3: Hi-Fi Web Proto  │ ───► │ Phase 4: Mobile Native App│
-│ (SheikhNaim-Assignment1)  │      │ (SheikhNaim_Assignment2)  │      │ (Prototype_Assignment3)   │      │ (AppPrototype_Assignment4)│
-└───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘
+┌────────────────────────────┐      ┌────────────────────────────┐      ┌────────────────────────────┐      ┌────────────────────────────┐
+│ Phase 1: UX Brief & Low-Fi │ ───► │ Phase 2: Wireframe Systems │ ───► │ Phase 3: Web Hi-Fi Proto   │ ───► │ Phase 4: Final Mobile App  │
+│ (Assignment 1)             │      │ (Assignment 2)             │      │ (Assignment 3)             │      │ ★ (Assignment 4 - FINAL) ★ │
+└────────────────────────────┘      └────────────────────────────┘      └────────────────────────────┘      └────────────────────────────┘
 ```
 
-| Phase | Milestone / Deliverable | Source File | Core Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | **User Research & Project Brief** | [`docs/SheikhNaim-Assignment1.docx`](docs/SheikhNaim-Assignment1.docx) | User personas, problem statement, competitive analysis, and whiteboard low-fi wireframes. |
-| **02** | **Information Architecture & Wireframes** | [`design/SheikhNaim_UI_UX_Assignment2.fig`](design/SheikhNaim_UI_UX_Assignment2.fig) | Structural layout, responsive desktop grid system, and information hierarchy. |
-| **03** | **Interactive Web Prototype** | [`design/Prototype_Assignment3_UIUX_SheikhNaim.fig`](design/Prototype_Assignment3_UIUX_SheikhNaim.fig) | High-fidelity interactive prototype, community gardens module, marketplace, and events calendar. |
-| **04** | **Mobile App & Design System** | [`design/AppPrototype_UIUX_Sheikh_Assignment4.fig`](design/AppPrototype_UIUX_Sheikh_Assignment4.fig) | Native mobile UI/UX, plant identification flow, watering tracker, design tokens, and components. |
+| Milestone | Deliverable File | Role in Project |
+| :--- | :--- | :--- |
+| **Phase 4 (Final)** | [**`design/AppPrototype_UIUX_Sheikh_Assignment4.fig`**](design/AppPrototype_UIUX_Sheikh_Assignment4.fig) | **★ Final Mobile App Interactive Prototype, Design System & UI Components ★** |
+| **Phase 3** | [`design/Prototype_Assignment3_UIUX_SheikhNaim.fig`](design/Prototype_Assignment3_UIUX_SheikhNaim.fig) | High-Fidelity Web Prototype, Community Modules & Marketplace |
+| **Phase 2** | [`design/SheikhNaim_UI_UX_Assignment2.fig`](design/SheikhNaim_UI_UX_Assignment2.fig) | Responsive Web Architecture & Wireframe Grid System |
+| **Phase 1** | [`docs/SheikhNaim-Assignment1.docx`](docs/SheikhNaim-Assignment1.docx) | UX Research Brief, Problem Statements & Low-Fi Whiteboard Wireframes |
 
 ---
 
@@ -80,29 +90,29 @@ A native mobile application prototype engineered for on-the-go plant monitoring,
 ```
 greenthumb-uiux-prototype/
 ├── design/
-│   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig          # Phase 4: Mobile App Prototype & Design System
+│   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig          # ★ FINAL PROJECT: Mobile App Prototype & Design System
 │   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig         # Phase 3: High-Fidelity Web Prototype & Flows
 │   └── SheikhNaim_UI_UX_Assignment2.fig                  # Phase 2: Responsive Web Architecture
 ├── docs/
 │   └── SheikhNaim-Assignment1.docx                       # Phase 1: User Research Brief & Low-Fi Wireframes
 ├── screenshots/
-│   ├── lowfi-wireframes-whiteboard-overview.png          # Full whiteboard wireframes board (Phase 1)
-│   ├── lowfi-home-plot-listings.png                      # Home / Plot listings wireframe (Phase 1)
-│   ├── lowfi-events-calendar.png                         # Events calendar wireframe (Phase 1)
-│   ├── lowfi-gardening-resources.png                     # Gardening resources wireframe (Phase 1)
-│   ├── lowfi-community-marketplace.png                   # Community marketplace wireframe (Phase 1)
-│   ├── lowfi-members-dashboard.png                       # Members dashboard wireframe (Phase 1)
-│   ├── lowfi-plot-details.png                            # Plot details wireframe (Phase 1)
-│   ├── web-landing-hero.png                              # Web discovery landing (Phase 3)
-│   ├── web-community-gardens.png                         # Community garden network (Phase 3)
-│   ├── web-plant-care-guide.png                          # Plant care encyclopedia (Phase 3)
-│   ├── web-marketplace-plants.png                        # Marketplace catalog (Phase 3)
-│   ├── web-events-calendar.png                           # Workshop & event calendar (Phase 3)
-│   ├── community-plot-banner.png                         # Community plot showcase banner (Phase 3)
-│   ├── mobile-app-prototype-overview.png                 # Mobile prototype board preview (Phase 4)
-│   ├── plant-care-banner.png                             # Mobile plant care tracker (Phase 4)
-│   ├── web-prototype-overview.png                        # Web prototype board preview (Phase 3)
-│   └── web-wireframes-overview.png                       # Wireframes board preview (Phase 2)
+│   ├── mobile-app-prototype-overview.png                 # Final Mobile Prototype Board
+│   ├── plant-care-banner.png                             # Final Plant Care Tracker Banner
+│   ├── community-plot-banner.png                         # Final Community Plot Showcase Banner
+│   ├── web-landing-hero.png                              # Web Prototype Landing Hero
+│   ├── web-community-gardens.png                         # Web Community Garden Network
+│   ├── web-plant-care-guide.png                          # Web Plant Care Guide
+│   ├── web-marketplace-plants.png                        # Web Marketplace Catalog
+│   ├── web-events-calendar.png                           # Web Events & Workshops Calendar
+│   ├── web-prototype-overview.png                        # Web Prototype Board
+│   ├── web-wireframes-overview.png                       # Wireframes Board
+│   ├── lowfi-wireframes-whiteboard-overview.png          # Whiteboard Wireframes Board
+│   ├── lowfi-home-plot-listings.png                      # Low-Fi Plot Listings
+│   ├── lowfi-events-calendar.png                         # Low-Fi Events Calendar
+│   ├── lowfi-gardening-resources.png                     # Low-Fi Resources
+│   ├── lowfi-community-marketplace.png                   # Low-Fi Marketplace
+│   ├── lowfi-members-dashboard.png                       # Low-Fi Dashboard
+│   └── lowfi-plot-details.png                            # Low-Fi Plot Details
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -110,20 +120,17 @@ greenthumb-uiux-prototype/
 
 ---
 
-## 🚀 How to View the Figma Prototypes
+## 🚀 Running the Final Prototype in Figma
 
-1. **Clone the repository:**
+1. **Clone or download the repository:**
    ```bash
    git clone https://github.com/snaimio/greenthumb-uiux-prototype.git
    ```
-2. **Open [Figma](https://www.figma.com/)** (desktop application or web browser).
-3. **Import files:**
-   - In Figma, click **Import** or drag and drop any file from the [`design/`](./design) folder:
-     - `design/AppPrototype_UIUX_Sheikh_Assignment4.fig`
-     - `design/Prototype_Assignment3_UIUX_SheikhNaim.fig`
-     - `design/SheikhNaim_UI_UX_Assignment2.fig`
-4. **Launch Prototype Mode:**
-   - Press `Cmd + Option + Enter` (macOS) or `Ctrl + Alt + Enter` (Windows) to experience interactive screens, page transitions, and component overlays.
+2. **Open [Figma](https://www.figma.com/)** in your browser or desktop application.
+3. **Import the Final Prototype:**
+   - Drag and drop **[`design/AppPrototype_UIUX_Sheikh_Assignment4.fig`](./design/AppPrototype_UIUX_Sheikh_Assignment4.fig)** into your Figma workspace.
+4. **Enter Prototype / Presentation Mode:**
+   - Press `Cmd + Option + Enter` (macOS) or `Ctrl + Alt + Enter` (Windows) to run the interactive mobile user flows and transitions.
 
 ---
 

@@ -63,17 +63,18 @@ A data-rich responsive desktop dashboard connecting users to neighborhood garden
 ## 🔄 Project Evolution & Deliverables
 
 ```
-┌─────────────────────────────────┐      ┌─────────────────────────────────┐      ┌─────────────────────────────────┐
-│   Phase 1: Low-Fi Wireframes    │ ───► │  Phase 2: Hi-Fi Web Prototype   │ ───► │ Phase 3: Mobile Native System   │
-│   (SheikhNaim_Assignment2)      │      │  (Prototype_Assignment3)        │      │ (AppPrototype_Assignment4)      │
-└─────────────────────────────────┘      └─────────────────────────────────┘      └─────────────────────────────────┘
+┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
+│ Phase 1: UX Research Doc  │ ───► │ Phase 2: Lo-Fi Wireframes │ ───► │ Phase 3: Hi-Fi Web Proto  │ ───► │ Phase 4: Mobile Native App│
+│ (SheikhNaim-Assignment1)  │      │ (SheikhNaim_Assignment2)  │      │ (Prototype_Assignment3)   │      │ (AppPrototype_Assignment4)│
+└───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘
 ```
 
 | Milestone | Deliverable File | Focus Areas | Visual Board |
 | :--- | :--- | :--- | :---: |
-| **Phase 1: Wireframes & Architecture** | [`SheikhNaim_UI_UX_Assignment2.fig`](design/SheikhNaim_UI_UX_Assignment2.fig) | Information architecture, user flows, responsive grid systems. | <img src="screenshots/web-wireframes-overview.png" width="220" alt="Wireframes Board"/> |
-| **Phase 2: Interactive Web Prototype** | [`Prototype_Assignment3_UIUX_SheikhNaim.fig`](design/Prototype_Assignment3_UIUX_SheikhNaim.fig) | Full interactive web application, e-commerce flow, events calendar. | <img src="screenshots/web-prototype-overview.png" width="220" alt="Web Prototype Board"/> |
-| **Phase 3: Mobile App & Design System** | [`AppPrototype_UIUX_Sheikh_Assignment4.fig`](design/AppPrototype_UIUX_Sheikh_Assignment4.fig) | Native iOS/Android design tokens, AR camera scanner, micro-interactions. | <img src="screenshots/mobile-app-prototype-overview.png" width="220" alt="Mobile Prototype Board"/> |
+| **Phase 1: User Research & Brief** | [`SheikhNaim-Assignment1.docx`](docs/SheikhNaim-Assignment1.docx) | User personas, problem statement, competitive analysis & requirement specs. | 📄 *Research Doc* |
+| **Phase 2: Wireframes & Architecture** | [`SheikhNaim_UI_UX_Assignment2.fig`](design/SheikhNaim_UI_UX_Assignment2.fig) | Information architecture, user flows, responsive grid systems. | <img src="screenshots/web-wireframes-overview.png" width="220" alt="Wireframes Board"/> |
+| **Phase 3: Interactive Web Prototype** | [`Prototype_Assignment3_UIUX_SheikhNaim.fig`](design/Prototype_Assignment3_UIUX_SheikhNaim.fig) | Full interactive web application, e-commerce flow, events calendar. | <img src="screenshots/web-prototype-overview.png" width="220" alt="Web Prototype Board"/> |
+| **Phase 4: Mobile App & Design System** | [`AppPrototype_UIUX_Sheikh_Assignment4.fig`](design/AppPrototype_UIUX_Sheikh_Assignment4.fig) | Native iOS/Android design tokens, AR camera scanner, micro-interactions. | <img src="screenshots/mobile-app-prototype-overview.png" width="220" alt="Mobile Prototype Board"/> |
 
 ---
 
@@ -85,6 +86,8 @@ greenthumb-uiux-prototype/
 │   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig     # Mobile App Prototype & Design System
 │   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig    # High-Fidelity Web Prototype & Flows
 │   └── SheikhNaim_UI_UX_Assignment2.fig             # Responsive Web Wireframes & Architecture
+├── docs/
+│   └── SheikhNaim-Assignment1.docx                  # User Research & Project Brief
 ├── screenshots/
 │   ├── design_system_tokens.jpg                     # High-res design tokens & component library
 │   ├── mobile_onboarding.jpg                        # High-res mobile onboarding & welcome screen

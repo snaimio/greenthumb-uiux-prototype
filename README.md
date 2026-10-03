@@ -81,7 +81,7 @@ The design began with low-fidelity whiteboard ideation and information architect
 | **Phase 4 (Final)** | [**`design/AppPrototype_UIUX_Sheikh_Assignment4.fig`**](design/AppPrototype_UIUX_Sheikh_Assignment4.fig) | **★ Final Mobile App Interactive Prototype, Design System & UI Components ★** |
 | **Phase 3** | [`design/Prototype_Assignment3_UIUX_SheikhNaim.fig`](design/Prototype_Assignment3_UIUX_SheikhNaim.fig) | High-Fidelity Web Prototype, Community Modules & Marketplace |
 | **Phase 2** | [`design/SheikhNaim_UI_UX_Assignment2.fig`](design/SheikhNaim_UI_UX_Assignment2.fig) | Responsive Web Architecture & Wireframe Grid System |
-| **Phase 1** | [`docs/SheikhNaim-Assignment1.docx`](docs/SheikhNaim-Assignment1.docx) | UX Research Brief, Problem Statements & Low-Fi Whiteboard Wireframes |
+| **Phase 1** | [`design/SheikhNaim-Assignment1.docx`](design/SheikhNaim-Assignment1.docx) | UX Research Brief, Problem Statements & Low-Fi Whiteboard Wireframes |
 
 ---
 
@@ -92,8 +92,7 @@ greenthumb-uiux-prototype/
 ├── design/
 │   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig          # ★ FINAL PROJECT: Mobile App Prototype & Design System
 │   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig         # Phase 3: High-Fidelity Web Prototype & Flows
-│   └── SheikhNaim_UI_UX_Assignment2.fig                  # Phase 2: Responsive Web Architecture
-├── docs/
+│   ├── SheikhNaim_UI_UX_Assignment2.fig                  # Phase 2: Responsive Web Architecture
 │   └── SheikhNaim-Assignment1.docx                       # Phase 1: User Research Brief & Low-Fi Wireframes
 ├── screenshots/
 │   ├── mobile-app-prototype-overview.png                 # Final Mobile Prototype Board

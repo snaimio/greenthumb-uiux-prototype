@@ -3,7 +3,7 @@
 # 🌱 GreenThumb — Mobile App UI/UX & Design System
 ### **Human-Centered Product Design Case Study & Interactive Prototype**
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20Android%20Mobile%20%7C%20Responsive%20Web-2ea44f?style=for-the-badge)](./design)
 [![Design Evolution](https://img.shields.io/badge/Design%20Process-Low--Fi%20%E2%86%92%20Mid--Fi%20%E2%86%92%20Final%20Mobile%20App-blue?style=for-the-badge)](./screenshots)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
@@ -13,7 +13,7 @@
 **Designed & Architected by Sheikh Naim**  
 *Product Design • User Research • Design Systems • Interactive Prototyping*
 
-[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4) • [**📱 Final Mobile App Screens**](#-final-capstone-showcase-mobile-application-prototype-assignment-4) • [**📐 Design Evolution**](#-end-to-end-design-evolution-from-low-fi-to-final-prototype) • [**🎨 Design Tokens**](#-design-system--visual-architecture)
+[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757) • [**📱 Final Mobile App Screens**](#-final-capstone-showcase-mobile-application-prototype-assignment-4) • [**📐 Design Evolution**](#-end-to-end-design-evolution-from-low-fi-to-final-prototype) • [**🎨 Design Tokens**](#-design-system--visual-architecture)
 
 </div>
 
@@ -32,7 +32,7 @@ Urban gardeners face recurring friction points: inconsistent watering routines, 
 │ 🎯 Designer       │ Sheikh Naim (Lead UI/UX & Product Design)                          │
 │ 🛠 Tools          │ Figma, Microsoft Whiteboard, User Journey Mapping, Design Systems  │
 │ 📱 Core Platform  │ Native Mobile App (iOS / Android) & Responsive Web Portal          │
-│ 🔗 Figma Key      │ 7nuclqgy1E88gaqP8KAQKA                                             │
+│ 🔗 Figma Key      │ 7nucLqgY1E8BgaqP8KAQKA                                             │
 │ 🚀 Deliverables   │ Mobile Prototype (.fig), Web Prototype (.fig), Design Specs        │
 └───────────────────┴────────────────────────────────────────────────────────────────────┘
 ```
@@ -220,9 +220,11 @@ greenthumb-uiux-prototype/
 
 ## 🚀 How to Run the Interactive Prototypes in Figma
 
-### 1. View Direct in Figma Web:
-Access the shared interactive prototype directly:
-👉 [**Open GreenThumb Prototype on Figma**](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
+### 1. Launch Interactive Prototype in Browser:
+Experience the complete interactive prototype with screen transitions, smart animations, and component flows:
+👉 [**Launch GreenThumb Live Interactive Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
+
+👉 [**Inspect Design File & Canvas on Figma**](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
 
 ### 2. Run Locally from Repository:
 1. **Clone the repository:**
@@ -243,7 +245,8 @@ Access the shared interactive prototype directly:
 *Product Designer • UI/UX Specialist*
 
 - **GitHub:** [@snaimio](https://github.com/snaimio)  
-- **Figma Prototype:** [GreenThumb on Figma](https://www.figma.com/design/7nuclqgy1E88gaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
+- **Live Interactive Prototype:** [GreenThumb on Figma](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)  
+- **Design System Canvas:** [Figma Design File](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
 
 ---
 

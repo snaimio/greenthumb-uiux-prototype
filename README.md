@@ -3,7 +3,7 @@
 # 🌱 GreenThumb — Smart Urban Gardening Platform & Design System
 ### **Human-Centered Product Design Case Study • Mobile & Web Architecture • Interactive Prototype**
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Live%20Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Live%20Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
 [![Role](https://img.shields.io/badge/Role-Lead%20Product%20Designer-0A66C2?style=for-the-badge)](./design)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20Android%20Mobile%20%7C%20Web-2ea44f?style=for-the-badge)](./screenshots)
 [![Design System](https://img.shields.io/badge/Design%20System-WCAG%202.1%20AAA%20Compliant-blue?style=for-the-badge)](./screenshots)
@@ -14,7 +14,7 @@
 **Designed & Architected by Sheikh Naim**  
 *Lead UI/UX • Product Design • Design Systems • Interactive Prototyping*
 
-[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757) • [**📱 Mobile UI Showcase**](#-flagship-mobile-experience--core-screen-flows) • [**🎨 Design System Tokens**](#-design-system--visual-architecture) • [**📐 Design Lifecycle**](#-end-to-end-product-design-lifecycle)
+[**🚀 Launch Interactive Figma Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757) • [**📱 Mobile UI Showcase**](#-flagship-mobile-experience--core-screen-flows) • [**🎨 Design System Tokens**](#-design-system--visual-architecture) • [**📐 Design Lifecycle**](#-end-to-end-product-design-lifecycle)
 
 </div>
 
@@ -149,10 +149,10 @@ The product followed a structured, human-centered product lifecycle from problem
 ```
 greenthumb-uiux-prototype/
 ├── design/
-│   ├── AppPrototype_UIUX_Sheikh_Assignment4.fig     # ★ Flagship Mobile Prototype & Design System
-│   ├── Prototype_Assignment3_UIUX_SheikhNaim.fig    # Responsive Web Platform Prototype
-│   ├── SheikhNaim_UI_UX_Assignment2.fig             # Wireframes & Layout Grid Architecture
-│   └── SheikhNaim-Assignment1.docx                  # UX Research Brief & Strategic Journey Maps
+│   ├── AppPrototype_UIUX_Sheikh_.fig     # ★ Flagship Mobile Prototype & Design System
+│   ├── Prototype__UIUX_SheikhNaim.fig    # Responsive Web Platform Prototype
+│   ├── SheikhNaim_UI_UX_.fig             # Wireframes & Layout Grid Architecture
+│   └── SheikhNaim-.docx                  # UX Research Brief & Strategic Journey Maps
 ├── screenshots/                                     # ★ Production Mobile Prototype Suite
 │   ├── figma-canvas-design-system-overview.png      # Complete Figma Workspace & Design System
 │   ├── mobile-telemetry-dashboard-closeup.png       # Live IoT Sensor Dashboard Widget
@@ -177,9 +177,9 @@ greenthumb-uiux-prototype/
 
 ### 1. Launch Interactive Prototype in Browser:
 Experience the complete interactive prototype with screen transitions, smart animations, and component flows:
-👉 [**Launch GreenThumb Live Interactive Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
+👉 [**Launch GreenThumb Live Interactive Prototype**](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)
 
-👉 [**Inspect Design File & Canvas on Figma**](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
+👉 [**Inspect Design File & Canvas on Figma**](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_)
 
 ### 2. Run Locally from Repository:
 1. **Clone the repository:**
@@ -188,7 +188,7 @@ Experience the complete interactive prototype with screen transitions, smart ani
    ```
 2. **Open [Figma](https://www.figma.com/)** (Desktop application or Web browser).
 3. **Import Deliverable:**
-   - In Figma, click **Import** and select [`design/AppPrototype_UIUX_Sheikh_Assignment4.fig`](./design/AppPrototype_UIUX_Sheikh_Assignment4.fig).
+   - In Figma, click **Import** and select [`design/AppPrototype_UIUX_Sheikh_.fig`](./design/AppPrototype_UIUX_Sheikh_.fig).
 4. **Experience Prototype Mode:**
    - Click the **Present / Play** icon in the top right (or press `Cmd + Option + Enter` on macOS / `Ctrl + Alt + Enter` on Windows) to test interactive screen transitions, smart animations, and component states.
 
@@ -200,8 +200,8 @@ Experience the complete interactive prototype with screen transitions, smart ani
 *Lead Product Designer • UI/UX Specialist*
 
 - **GitHub:** [@snaimio](https://github.com/snaimio)  
-- **Live Interactive Prototype:** [GreenThumb on Figma](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)  
-- **Design System Canvas:** [Figma Design File](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_Assignment4)
+- **Live Interactive Prototype:** [GreenThumb on Figma](https://www.figma.com/proto/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_?node-id=7-1388&p=f&t=HIqKhgHtpnOWBKuI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A1439&starting-point-node-id=195%3A3757)  
+- **Design System Canvas:** [Figma Design File](https://www.figma.com/design/7nucLqgY1E8BgaqP8KAQKA/AppPrototype_UIUX_Sheikh_)
 
 ---
 
